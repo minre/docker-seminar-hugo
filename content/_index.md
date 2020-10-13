@@ -4,7 +4,7 @@ date: 2020-05-11T16:28:12+02:00
 draft: false
 ---
 
-# Lerne programmieren im CoderDojo Linz
+# JAJA, Lerne programmieren im CoderDojo Linz
 
 Möchtest du Computerspiele nicht nur spielen sondern selbst programmieren? Dann bist du richtig beim CoderDojo!
 
